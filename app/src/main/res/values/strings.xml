@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Namma-Santhe Ledger</string>
+    <string name="total_outstanding">Total Outstanding</string>
+    <string name="today_summary">Today you sold %1$s, Dues pending %2$s</string>
+    <string name="no_customers">No customers yet. Add your first customer!</string>
+    <string name="no_transactions">No transactions yet.</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="add_udari">Add Udari (Credit)</string>
+    <string name="record_payment">Record Payment</string>
+    <string name="whatsapp_reminder">WhatsApp Reminder</string>
+    <string name="no_phone_saved">No phone number saved for this customer.</string>
+    <string name="pending_due_message">Hi %1$s, you have a pending due of ₹%2$s at Namma-Santhe. Please pay when convenient.</string>
+    <string name="payment">PAYMENT</string>
+    <string name="credit">CREDIT</string>
+    <string name="search_hint">Search customers</string>
+</resources>
